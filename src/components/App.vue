@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button @mouseover='move($event)'> I'm alive</button>
+    Hello World
   </div>
 </template>
 
